@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Camiseta Real Madrid 23/24 - Local",
+    "description": "Camiseta oficial del Real Madrid para la temporada 2023/2024. La camiseta local del Real Madrid para la temporada 2023/2024 es de color blanco con detalles en dorado. La camiseta es de manga corta y cuello redondo.",
+    "code": "RM2324L",
+    "price": 3999,
+    "status": true,
+    "stock": 10,
+    "category": "Camisetas locales"
+  },
+  {
+    "title": "Camiseta Manchester City 23/24 - Local",
+    "description": "Camiseta local del Manchester City para la temporada 2023/2024. Color azul celeste con patrón geométrico sutil. Material ligero y transpirable.",
+    "code": "MC2324L",
+    "price": 3899,
+    "status": true,
+    "stock": 12,
+    "category": "Camisetas locales"
+  },
+  {
+    "title": "Camiseta Bayern Munich 23/24 - Local",
+    "description": "Camiseta local del Bayern Munich para la 2023/2024. Tradicional rojo con detalles en blanco. Incorpora tecnología de control de temperatura.",
+    "code": "BM2324L",
+    "price": 3799,
+    "status": true,
+    "stock": 10,
+    "category": "Camisetas locales"
+  },
+  {
+    "title": "Camiseta Paris Saint-Germain 23/24 - Local",
+    "description": "Camiseta local del PSG para 2023/2024. Azul marino con franja central roja. Diseño elegante con tecnología de secado rápido.",
+    "code": "PSG2324L",
+    "price": 3899,
+    "status": true,
+    "stock": 14,
+    "category": "Camisetas locales"
+  },
+  {
+    "title": "Camiseta Liverpool 23/24 - Local",
+    "description": "Camiseta local del Liverpool FC para 2023/2024. Rojo vibrante con detalles en blanco. Tejido de alta calidad con protección UV.",
+    "code": "LIV2324L",
+    "price": 3799,
+    "status": true,
+    "stock": 11,
+    "category": "Camisetas locales"
+  },
+  {
+    "title": "Camiseta Barcelona 23/24 - Visitante",
+    "description": "Camiseta de visitante del FC Barcelona para 2023/2024. Color dorado con detalles en azul y grana. Diseño inspirado en la arquitectura modernista.",
+    "code": "FCB2324V",
+    "price": 3899,
+    "status": true,
+    "stock": 9,
+    "category": "Camisetas visitantes"
+  },
+  {
+    "title": "Camiseta Juventus 23/24 - Visitante",
+    "description": "Camiseta de visitante de la Juventus para 2023/2024. Diseño en negro y gris con detalles en oro. Estilo moderno y elegante.",
+    "code": "JUV2324V",
+    "price": 3699,
+    "status": true,
+    "stock": 8,
+    "category": "Camisetas visitantes"
+  },
+  {
+    "title": "Camiseta Borussia Dortmund 23/24 - Visitante",
+    "description": "Camiseta de visitante del Borussia Dortmund para 2023/2024. Color negro con patrón gráfico en amarillo. Diseño dinámico y llamativo.",
+    "code": "BVB2324V",
+    "price": 3599,
+    "status": true,
+    "stock": 7,
+    "category": "Camisetas visitantes"
+  },
+  {
+    "title": "Camiseta AC Milan 23/24 - Visitante",
+    "description": "Camiseta de visitante del AC Milan para 2023/2024. Blanco con detalles en rojo y negro. Diseño minimalista y elegante.",
+    "code": "ACM2324V",
+    "price": 3699,
+    "status": true,
+    "stock": 10,
+    "category": "Camisetas visitantes"
+  },
+  {
+    "title": "Camiseta Inter de Milán 23/24 - Visitante",
+    "description": "Camiseta de visitante del Inter de Milán para 2023/2024. Color blanco con patrón de serpiente sutil. Tecnología de tejido avanzada.",
+    "code": "INT2324V",
+    "price": 3599,
+    "status": true,
+    "stock": 9,
+    "category": "Camisetas visitantes"
+  },
+  {
+    "title": "Camiseta Atlético Madrid 23/24 - Tercera",
+    "description": "Tercera camiseta del Atlético de Madrid para 2023/2024. Color verde oscuro con detalles en rojo y blanco. Diseño inspirado en la historia del club.",
+    "code": "ATM2324T",
+    "price": 3499,
+    "status": true,
+    "stock": 6,
+    "category": "Camisetas alternativas"
+  },
+  {
+    "title": "Camiseta Chelsea 23/24 - Tercera",
+    "description": "Tercera camiseta del Chelsea para 2023/2024. Color naranja brillante con patrón geométrico en azul. Diseño audaz y moderno.",
+    "code": "CHE2324T",
+    "price": 3599,
+    "status": true,
+    "stock": 7,
+    "category": "Camisetas alternativas"
+  },
+  {
+    "title": "Camiseta Arsenal 23/24 - Tercera",
+    "description": "Tercera camiseta del Arsenal para 2023/2024. Color rosa con detalles en negro. Diseño inspirado en el arte urbano de Londres.",
+    "code": "ARS2324T",
+    "price": 3499,
+    "status": true,
+    "stock": 8,
+    "category": "Camisetas alternativas"
+  },
+  {
+    "title": "Camiseta Napoli 23/24 - Tercera",
+    "description": "Tercera camiseta del Napoli para 2023/2024. Color azul claro con patrón de olas. Diseño inspirado en la bahía de Nápoles.",
+    "code": "NAP2324T",
+    "price": 3399,
+    "status": true,
+    "stock": 5,
+    "category": "Camisetas alternativas"
+  },
+  {
+    "title": "Camiseta Ajax 23/24 - Tercera",
+    "description": "Tercera camiseta del Ajax para 2023/2024. Color negro con detalles en rojo y blanco. Diseño inspirado en la bandera de Ámsterdam.",
+    "code": "AJX2324T",
+    "price": 3299,
+    "status": true,
+    "stock": 6,
+    "category": "Camisetas alternativas"
+  },
+  {
+    "title": "Camiseta Manchester United 23/24 - Portero",
+    "description": "Camiseta de portero del Manchester United para 2023/2024. Color verde fluorescente con patrón gráfico. Diseño de alta visibilidad.",
+    "code": "MU2324P",
+    "price": 3699,
+    "status": true,
+    "stock": 4,
+    "category": "Camisetas de portero"
+  },
+  {
+    "title": "Camiseta Real Madrid 23/24 - Portero",
+    "description": "Camiseta de portero del Real Madrid para 2023/2024. Color negro con detalles holográficos. Tecnología de agarre mejorado en las mangas.",
+    "code": "RM2324P",
+    "price": 3799,
+    "status": true,
+    "stock": 5,
+    "category": "Camisetas de portero"
+  },
+  {
+    "title": "Camiseta Bayern Munich 23/24 - Portero",
+    "description": "Camiseta de portero del Bayern Munich para 2023/2024. Color naranja brillante con patrón de camuflaje. Diseño llamativo y funcional.",
+    "code": "BM2324P",
+    "price": 3599,
+    "status": true,
+    "stock": 3,
+    "category": "Camisetas de portero"
+  },
+  {
+    "title": "Camiseta Liverpool 23/24 - Portero",
+    "description": "Camiseta de portero del Liverpool para 2023/2024. Color morado intenso con detalles en negro. Tecnología de protección contra impactos.",
+    "code": "LIV2324P",
+    "price": 3699,
+    "status": true,
+    "stock": 4,
+    "category": "Camisetas de portero"
+  }
+]
